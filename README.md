@@ -1,4 +1,4 @@
-### 🛡️ About Me<br><br>Hey! I’m **Mohamed Hany** 🔐, a **Cybersecurity enthusiast** passionate about **Blue Teaming 🛡️, SOC Operations , Threat Detection , and Incident Response **.<br><br>I enjoy analyzing suspicious activities 🕵️‍♂️, investigating security incidents 🔍, understanding how attacks work , and finding ways to build stronger defenses 🛡️.<br><br>I’m constantly improving my skills through **CTFs 🏆, Security Labs 🧪, Networking 🌐, Linux 🐧, SIEM 📊, and Threat Analysis 🎯**.<br><br>My goal is simple: **Detect 🔎 → Analyze 🧠 → Defend 🛡️ → Improve 🚀**.<br>
+### 🛡️ About Me<br><br>Hey! I’m **Mohamed Hany** 🔐, a **Cybersecurity enthusiast** passionate about Blue Teaming 🛡️, SOC Operations , Threat Detection , and Incident Response .<br><br>I enjoy analyzing suspicious activities 🕵️‍♂️, investigating security incidents 🔍, understanding how attacks work , and finding ways to build stronger defenses 🛡️.<br><br>I’m constantly improving my skills through **CTFs 🏆, Security Labs 🧪, Networking 🌐, Linux 🐧, SIEM 📊, and Threat Analysis 🎯**.<br><br>My goal is simple: **Detect 🔎 → Analyze 🧠 → Defend 🛡️ → Improve 🚀**.<br>
 
 
 ## 🌐 Socials:
